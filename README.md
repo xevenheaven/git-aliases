@@ -4,6 +4,7 @@ Collation of my own git aliases.
 ## List of aliases
 ```bash
 git config --global alias.a "add ."
+git config --global alias.ai "add -i"
 git config --global alias.br branch
 git config --global alias.c "commit"
 git config --global alias.ca "commit --amend"
