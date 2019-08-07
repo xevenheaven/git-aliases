@@ -12,6 +12,9 @@ git config --global alias.cf "clean -f" && \
 git config --global alias.cm "commit -m" && \
 git config --global alias.co checkout && \
 git config --global alias.cob "checkout -b" && \
+git config --global alias.cp cherry-pick && \
+git config --global alias.cpa "cherry-pick --abort" && \
+git config --global alias.cpc "cherry-pick --continue" && \
 git config --global alias.d diff && \
 git config --global alias.ds "diff --staged" && \
 git config --global alias.dt difftool && \
